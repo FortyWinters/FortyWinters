@@ -1,6 +1,6 @@
 <a href="https://github.com/FortyWinters">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FortyWinters&theme=vue&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FortyWinters&theme=vue&show_icons=true&hide_border=true&count_private=true&hide_border=false" />
 </a>
 <a href="https://github.com/FortyWinters">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortyWinters&theme=vue&show_icons=true&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FortyWinters&theme=vue&show_icons=true&hide_border=true&layout=compact&hide_border=false" />
 </a>
